@@ -18,5 +18,5 @@ int main(){
 
     cout << "Grãos: " << Calcular_Grao(N) << endl; 
 
-
+    return 0;
 }
